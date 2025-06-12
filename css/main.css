@@ -1,0 +1,38 @@
+*{
+ font-family: "Open Sans", sans-serif;
+    
+}
+
+caption {
+  text-transform: capitalize;
+  text-align: left;
+  
+  font-weight: 600;
+  font-size: 1.5vw;
+  margin: 2vw 0;
+}
+
+table{
+border-collapse: collapse;
+
+}
+
+thead {
+  background-color: black;
+}
+
+th {
+  color: white;
+  text-transform:  uppercase;
+  padding: 1.5vw 2.5vw;
+}
+
+td {
+    border: 0.1vw solid  black;
+  padding: 1.5vw 2.5vw;
+ text-transform:capitalize  ;
+}
+
+img {
+  width: 50px;
+}
